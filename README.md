@@ -1,2 +1,2 @@
 # swigen
-angualr website
+angular website
